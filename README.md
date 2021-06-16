@@ -4,7 +4,7 @@
 You can find our own implementation of PPO in TensorFlow and our training loop in the *TensorFlow* folder.
 
 ## Paper
-For further details about this project, you can read the corresponding paper we wrote as part of this university project. It is called *Self_parking_car_final_submission.pdf*.
+For further details about this project, you can read the corresponding paper we wrote as part of this university project. It is simply called [Paper.pdf](https://github.com/corni3011/Self-parking-car-Unity-Tensorflow/blob/main/Paper.pdf).
 
 ## MLAgents
 The config file used for training in MLAgents is called *PoliceCar.yaml*.
